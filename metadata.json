@@ -1,0 +1,8 @@
+
+{
+  "name": "LegalEase Contract Analyzer",
+  "description": "An AI-powered contract analysis tool that simplifies complex legal jargon into plain language, identifies risks, and extracts key deadlines.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
